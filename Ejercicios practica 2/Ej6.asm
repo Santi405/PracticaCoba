@@ -1,5 +1,5 @@
         .data
-V:      .byte 43,26,26,5,18,10,29,31
+V:      .byte 12,28,38,36,13,10,23,8
 vLen:   .byte 7
 rango1: .byte 15
 rango2: .byte 30
