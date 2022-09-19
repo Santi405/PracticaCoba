@@ -1,5 +1,5 @@
 .data
-V:      .byte 2, 4, 6
+V:      .byte 2, -4, -6
 res:    .space 12
         .text
        
