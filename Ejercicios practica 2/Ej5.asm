@@ -1,5 +1,5 @@
 .data
-V:      .byte 0,3,0,12,0,4,7,38
+V:      .byte 37,0,23,0,42,7,35,0
 vLen:   .byte 7
 total:  .word 1
         .text
