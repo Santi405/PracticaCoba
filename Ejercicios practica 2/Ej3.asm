@@ -1,5 +1,5 @@
         .data
-V:      .byte 1,-4,-5,-2
+V:      .byte 1,-4,-5,2
 res:    .word 1
         .text
  
